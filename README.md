@@ -1,3 +1,3 @@
 # KubeTutor
-First GitHub repository to learn GitHub
+Global GitHub Repository
 <br> Author - Siddhesh Shivnekar
